@@ -1,0 +1,6 @@
+framework module Pods_SetTracker {
+  umbrella header "Pods-SetTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
