@@ -1,4 +1,4 @@
-### SetTracker
+# SetTracker
 
 ## Purpose
 To allow one to record the exercises they do every day with the rep count and the weight.
