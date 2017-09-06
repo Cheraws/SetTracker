@@ -14,3 +14,6 @@ To allow one to record the exercises they do every day with the rep count and th
 ## To Do
 - Fitbit integration to show the heartrate for each set.
 - Adding more exercises to the list.
+
+
+![alt text](https://github.com/Cheraws/SetTracker/blob/master/Starting.png)
